@@ -97,7 +97,7 @@ Default login:
 
 ## 👨‍💻 Author
 
-** Syed Nabil Ahmed (Data Analyst Intern)**
+** Syed Nabil Ahmed (Data Analyst Intern) **
 
 ---
 
