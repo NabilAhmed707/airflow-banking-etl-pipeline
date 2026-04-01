@@ -1,0 +1,51 @@
+customer_id,name,dob,phone,email,address,create_tsp
+CUS20260305_00001,Rani Patel,2003-07-05,9830263275,rani.patel1@bank.com,"Wakad, Pune",2026-03-05 17:03:41
+CUS20260305_00002,Vikram Gupta,1980-06-27,8665835556,vikram.gupta2@bank.com,"Wakad, Pune",2026-03-05 17:03:41
+CUS20260305_00003,Fatima Bhatt,1996-11-05,8191774516,fatima.bhatt3@bank.com,"Viman Nagar, Pune",2026-03-05 17:03:41
+CUS20260305_00004,Rahul Gupta,1991-07-02,6530201600,rahul.gupta4@bank.com,"Aundh, Pune",2026-03-05 17:03:41
+CUS20260305_00005,Amit D'Souza,2008-07-14,6450612320,amit.dsouza5@bank.com,"Hinjewadi, Pune",2026-03-05 17:03:41
+CUS20260305_00006,Rani Chopra,1966-11-27,6176027740,rani.chopra6@bank.com,"Baner, Pune",2026-03-05 17:03:41
+CUS20260305_00007,Amit Gupta,2004-05-11,7876428977,amit.gupta7@bank.com,"Baner, Pune",2026-03-05 17:03:41
+CUS20260305_00008,Amit Roy,1986-05-23,9314474238,amit.roy8@bank.com,"Hinjewadi, Pune",2026-03-05 17:03:41
+CUS20260305_00009,Lakshmi D'Souza,1997-02-07,9905149026,lakshmi.dsouza9@bank.com,"Hadapsar, Pune",2026-03-05 17:03:41
+CUS20260305_00010,Meera Patel,1989-08-19,6963021282,meera.patel10@bank.com,"Kothrud, Pune",2026-03-05 17:03:41
+CUS20260305_00011,Lakshmi Sharma,1985-04-11,6185118551,lakshmi.sharma11@bank.com,"Hadapsar, Pune",2026-03-05 17:03:41
+CUS20260305_00012,Amit Bhatt,1983-08-11,8560367763,amit.bhatt12@bank.com,"Hadapsar, Pune",2026-03-05 17:03:41
+CUS20260305_00013,Rani Khan,1975-05-02,8216021684,rani.khan13@bank.com,"Kothrud, Pune",2026-03-05 17:03:41
+CUS20260305_00014,Rohan Verma,1971-04-10,6150814717,rohan.verma14@bank.com,"Chinchwad, Pune",2026-03-05 17:03:41
+CUS20260305_00015,Fatima Roy,1993-02-08,8623095714,fatima.roy15@bank.com,"Baner, Pune",2026-03-05 17:03:41
+CUS20260305_00016,Amit Khan,1975-12-25,6010111770,amit.khan16@bank.com,"Wakad, Pune",2026-03-05 17:03:41
+CUS20260305_00017,Meera Khan,1997-09-21,7390852833,meera.khan17@bank.com,"Kharadi, Pune",2026-03-05 17:03:41
+CUS20260305_00018,Vikram Sharma,2006-04-12,6634224530,vikram.sharma18@bank.com,"Pimpri, Pune",2026-03-05 17:03:41
+CUS20260305_00019,Rohan Bhatt,1994-12-11,6714728325,rohan.bhatt19@bank.com,"Baner, Pune",2026-03-05 17:03:41
+CUS20260305_00020,Arjun D'Souza,1981-05-18,9459936641,arjun.dsouza20@bank.com,"Pimpri, Pune",2026-03-05 17:03:41
+CUS20260305_00021,Amit Singh,2005-03-12,7898344213,amit.singh21@bank.com,"Aundh, Pune",2026-03-05 17:03:41
+CUS20260305_00022,Arjun Patel,2008-12-19,6685273866,arjun.patel22@bank.com,"Chinchwad, Pune",2026-03-05 17:03:41
+CUS20260305_00023,Vikram Verma,1977-05-10,6869726485,vikram.verma23@bank.com,"Kothrud, Pune",2026-03-05 17:03:41
+CUS20260305_00024,Rani Bose,2004-01-28,9193190158,rani.bose24@bank.com,"Aundh, Pune",2026-03-05 17:03:41
+CUS20260305_00025,Nabil Iyer,1971-09-25,9090695631,nabil.iyer25@bank.com,"Aundh, Pune",2026-03-05 17:03:41
+CUS20260305_00026,Neha Gupta,1990-11-19,8330222404,neha.gupta26@bank.com,"Baner, Pune",2026-03-05 17:03:41
+CUS20260305_00027,Rahul Khan,1997-02-08,6799986682,rahul.khan27@bank.com,"Pimpri, Pune",2026-03-05 17:03:41
+CUS20260305_00028,Fatima Reddy,1978-09-01,7514267352,fatima.reddy28@bank.com,"Hadapsar, Pune",2026-03-05 17:03:41
+CUS20260305_00029,Suresh Chopra,1973-05-10,8385790545,suresh.chopra29@bank.com,"Kharadi, Pune",2026-03-05 17:03:41
+CUS20260305_00030,Isha Bose,1973-04-07,9619794251,isha.bose30@bank.com,"Baner, Pune",2026-03-05 17:03:41
+CUS20260305_00031,Anil Bose,1982-09-05,7969392740,anil.bose31@bank.com,"Pimpri, Pune",2026-03-05 17:03:41
+CUS20260305_00032,Neha Roy,1966-06-14,8150578314,neha.roy32@bank.com,"Baner, Pune",2026-03-05 17:03:41
+CUS20260305_00033,Priya Bhatt,2003-01-19,8649742219,priya.bhatt33@bank.com,"Aundh, Pune",2026-03-05 17:03:41
+CUS20260305_00034,Rahul Joshi,1980-01-13,6312570873,rahul.joshi34@bank.com,"Baner, Pune",2026-03-05 17:03:41
+CUS20260305_00035,Fatima Gupta,1982-07-06,6689614086,fatima.gupta35@bank.com,"Wakad, Pune",2026-03-05 17:03:41
+CUS20260305_00036,Zara Reddy,1985-10-05,7983086941,zara.reddy36@bank.com,"Viman Nagar, Pune",2026-03-05 17:03:41
+CUS20260305_00037,Vikram Reddy,1966-10-01,9757201179,vikram.reddy37@bank.com,"Chinchwad, Pune",2026-03-05 17:03:41
+CUS20260305_00038,Lakshmi Khan,1998-01-03,6814733840,lakshmi.khan38@bank.com,"Wakad, Pune",2026-03-05 17:03:41
+CUS20260305_00039,Rahul Chopra,1985-12-08,7380256836,rahul.chopra39@bank.com,"Wakad, Pune",2026-03-05 17:03:41
+CUS20260305_00040,Suresh Bhatt,2008-04-13,9995412687,suresh.bhatt40@bank.com,"Kothrud, Pune",2026-03-05 17:03:41
+CUS20260305_00041,Anil Bhatt,1979-12-03,6457703900,anil.bhatt41@bank.com,"Chinchwad, Pune",2026-03-05 17:03:41
+CUS20260305_00042,Arjun Khan,2007-11-09,8379638716,arjun.khan42@bank.com,"Viman Nagar, Pune",2026-03-05 17:03:41
+CUS20260305_00043,Suresh Roy,1985-10-22,8559484676,suresh.roy43@bank.com,"Hadapsar, Pune",2026-03-05 17:03:41
+CUS20260305_00044,Neha D'Souza,1968-03-07,9908575519,neha.dsouza44@bank.com,"Pimpri, Pune",2026-03-05 17:03:41
+CUS20260305_00045,Zara Sharma,1978-07-15,8115144569,zara.sharma45@bank.com,"Baner, Pune",2026-03-05 17:03:41
+CUS20260305_00046,Fatima Verma,1966-06-25,8238922781,fatima.verma46@bank.com,"Shivaji Nagar, Pune",2026-03-05 17:03:41
+CUS20260305_00047,Rohan Roy,1977-11-28,6505243145,rohan.roy47@bank.com,"Hinjewadi, Pune",2026-03-05 17:03:41
+CUS20260305_00048,Priya Chopra,1975-03-07,7860657525,priya.chopra48@bank.com,"Aundh, Pune",2026-03-05 17:03:41
+CUS20260305_00049,Nabil Roy,1968-07-16,7274793782,nabil.roy49@bank.com,"Viman Nagar, Pune",2026-03-05 17:03:41
+CUS20260305_00050,Meera Reddy,1997-05-14,7118602216,meera.reddy50@bank.com,"Hinjewadi, Pune",2026-03-05 17:03:41
