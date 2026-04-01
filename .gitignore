@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# Airflow logs
+logs/
+
+# Generated data files
+data/
+
+# Temporary files
+*.log
+*.tmp
