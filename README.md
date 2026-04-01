@@ -141,7 +141,7 @@ This pipeline can be used for:
 
 ## 👨‍💻 Author
 
-**Ahmed (Data Analyst Intern)**
+** Syed Nabil Ahmed (Data Analyst Intern) **
 
 ---
 
