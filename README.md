@@ -30,40 +30,6 @@ It simulates real-world banking data processing workflows including customer, ac
 
 ---
 
-## 📂 Project Structure
-
-```
-airflow-workspace/
-│
-├── dags/
-│   ├── dag_file_watcher.py
-│   ├── dag_data_ingestion.py
-│   └── banking_full_pipeline.py
-│
-├── scripts/
-│   ├── load_customer.py
-│   ├── load_account.py
-│   ├── load_transaction.py
-│   ├── load_loan.py
-│   ├── customer_etl.py
-│   ├── account_etl.py
-│   ├── transaction_etl.py
-│   ├── loan_etl.py
-│   ├── generate_unique_data.py
-│   └── generate_dashboards_pdf.py
-│
-├── data/
-│   ├── incoming/
-│   ├── archive/
-│   ├── rejection/
-│   └── error/
-│
-├── logs/
-├── banking.db
-└── README.md
-```
-
----
 
 ## 🔄 ETL Workflow
 
